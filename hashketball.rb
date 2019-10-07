@@ -102,6 +102,7 @@ def game_hash
                 slam_dunks: 1 }
             ] }
   }
+  
 end
 
 def num_points_scored(sought_player_name)
